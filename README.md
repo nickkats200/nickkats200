@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickkats200
-- 👀 I’m interested in engineering and applied maths.
+- 👀 I’m interested in engineering and applied mathematics.
 - 🌱 I’m currently learning MATLAB
 - 📫 Reach me at nkats2002@gmail.com
 
