@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickkats200
-- 👀 I’m interested in engineering and applied mathematics.
-- 🌱 I’m currently learning MATLAB
+- 👀 I’m interested in applying machine learning and control theory to solving problems in translational medicine.
+- 🌱 I’m currently learning R.
 - 📫 Reach me at nkats2002@gmail.com
 
 <!---
